@@ -1,0 +1,8 @@
+C:\Users\Vanessa\documents\ListWiselyApp\obj\Debug\net6.0\ListWiselyApp.csproj.AssemblyReference.cache
+C:\Users\Vanessa\documents\ListWiselyApp\obj\Debug\net6.0\ListWiselyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vanessa\documents\ListWiselyApp\obj\Debug\net6.0\ListWiselyApp.AssemblyInfoInputs.cache
+C:\Users\Vanessa\documents\ListWiselyApp\obj\Debug\net6.0\ListWiselyApp.AssemblyInfo.cs
+C:\Users\Vanessa\documents\ListWiselyApp\obj\Debug\net6.0\ListWiselyApp.csproj.CoreCompileInputs.cache
+C:\Users\Vanessa\documents\ListWiselyApp\obj\Debug\net6.0\ListWiselyApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vanessa\documents\ListWiselyApp\obj\Debug\net6.0\ListWiselyApp.RazorAssemblyInfo.cache
+C:\Users\Vanessa\documents\ListWiselyApp\obj\Debug\net6.0\ListWiselyApp.RazorAssemblyInfo.cs
